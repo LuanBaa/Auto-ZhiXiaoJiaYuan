@@ -1,15 +1,15 @@
 [
   {
     "enable": true,
-    "alias": "张三",
-    "phone": "18888888888",
-    "password": "123456...",
-    "randomLocation": false,
-    "deviceType": "Xiaomi|Mi 13|13",
-    "deviceId": "设备ID",
-    "address": "打卡地址",
-    "longitude": "位置经度",
-    "latitude": "位置纬度",
-    "pushKey": "推送Key"
+    "alias": "栾好天",
+    "phone": "18739355175",
+    "password": "Luan123..",
+    "randomLocation": true, 
+    "deviceType": "IQOO|Neo6 SE|13", 
+    "deviceId": "dd5f15dd4b524fca9bbea148effff85dd333",
+    "address": "长信科技C区",
+    "longitude": "31.436162459240716",
+    "latitude": "118.37207068417356",
+    "pushKey": "f0320aa174fa42a0b09b27057f530812" 
   }
 ]
